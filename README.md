@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm EunHo Lee</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bhavik(Paradox).;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+EunHo Lee.;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -18,7 +18,8 @@
 
 <br>
 <p align="center">
-  Hi, I'm a software Engineer at Intelliz!!
+  
+  , I'm a software Engineer at Intelliz!!
   <br>
   <br>
   🔬 I'm planning on studying Computer Science and Math at Denison University!!
