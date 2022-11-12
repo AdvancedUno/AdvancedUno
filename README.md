@@ -19,7 +19,7 @@
 <br>
 <p align="center">
   
-  , I'm a software Engineer at Intelliz!!
+  I'm a software Engineer at Intelliz!!
   <br>
   <br>
   🔬 I'm planning on studying Computer Science and Math at Denison University!!
