@@ -22,7 +22,7 @@
   I'm a software Engineer at Intelliz!!
   <br>
   <br>
-  🔬 I'm studying Computer Science and Math at Denison University!!
+  🔬 I'm studying Computer Science and Mathemathics at Denison University!!
   <br>
   🎓 I graduated from Regina Christian School in Canada
   <br>
