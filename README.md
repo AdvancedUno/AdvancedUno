@@ -19,7 +19,6 @@
 <br>
 <p align="center">
   
-  I'm a software Engineer at Intelliz!!
   <br>
   <br>
   🔬 I'm studying Computer Science and Mathemathics at Denison University!!
