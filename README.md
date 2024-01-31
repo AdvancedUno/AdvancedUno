@@ -55,8 +55,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
+<!-- <p align=center> -->
+<!--   <div align=center> -->
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=AdvancedUno&theme=react&border=61dafb&hide_border=true" alt="advanceduno" />
     </a>
