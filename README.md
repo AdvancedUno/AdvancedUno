@@ -23,8 +23,6 @@
   <br>
   🔬 I'm studying Computer Science and Mathemathics at Denison University!!
   <br>
-  🎓 I graduated from Regina Christian School in Canada
-  <br>
   💻 I love writing code and learn anythings about it
   <br>
   📚 
