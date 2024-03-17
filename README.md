@@ -9,7 +9,7 @@
 <h3 align="center">Connect with me:</h3>
 <h5 align="center">
   
-  <code><a href="[https://www.linkedin.com/](https://www.linkedin.com/in/eunho-lee-0711a8248/)" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/eunho-lee-0711a8248/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <br>
   <br>
 <code><a href="https://www.instagram.com/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
