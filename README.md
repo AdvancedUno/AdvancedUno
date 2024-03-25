@@ -24,9 +24,9 @@
   
   <br>
   <br>
-  🔬 I'm studying Computer Science and Mathemathics at Denison University!!
+  🔬 I'm studying Computer Science and Mathematics at Denison University!!
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learning computer and systems
   <br>
   📚 
   <br>
