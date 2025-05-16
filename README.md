@@ -24,6 +24,9 @@
   
   <br>
   <br>
+  🔬 I'm a Software Engineering Intern at Microsoft in Redmond!
+  <br>
+  <br>
   🔬 I'm studying Computer Science and Mathematics at Denison University!!
   <br>
   💻 I love writing code and learning computer and systems
