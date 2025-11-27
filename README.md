@@ -1,64 +1,117 @@
-
-<h1 align="center">Hi 👋, I'm EunHo Lee</h1>
-<!-- <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+EunHoLee.;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1> -->
-
-<h3 align="center">Connect with me:</h3>
-<h5 align="center">
-  
-  <code><a href="https://www.linkedin.com/in/eunho-lee-0711a8248/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <br>
-  <br>
-<code><a href="https://www.instagram.com/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
-<br>
-<br>
-<code><a href="https://www.kaggle.com/advanceduno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="teamparksom"  /></a></code>
-
-</h5>
-
-<br>
-<p align="center">
-  
-  <br>
-  <br>
-  🔬 I'm a Software Engineering Intern at Microsoft in Redmond!
-  <br>
-  <br>
-  🔬 I'm studying Computer Science and Mathematics at Denison University!!
-  <br>
-  💻 I love writing code and learning computer and systems
-  <br>
-  📚 
-  <br>
-  📫 How to reach me: <a href="mailto: ehlee8276@gmail.com">ehlee8276@gmail.com</a>
-</p>
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-
-
+<h1 align="center">Hi, I'm EunHo (Uno) Lee 👋</h1>
 
 <p align="center">
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
-  <code><img title="Json" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="Saas" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-  <code><img title="Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+  <b>Software Engineer • CS + Math • Washington University in St. Louis</b>
+  <br/>
+  Passionate about distributed systems, optimization, microservices, and high-performance computing.
 </p>
 
-<hr>
+---
 
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdvancedUno&hide_progress=true)
+## 🚀 About Me
+
+I'm a Software Engineer with experience spanning **cloud infrastructure**, **microservices**, **optimization**, and **machine learning systems**.  
+I enjoy building scalable architectures, optimizing systems end-to-end, and researching mathematical models for decision-making.
+
+🎓 **BS/MS in Computer Science** @ *Washington University in St. Louis* (GPA 4.0/4.0)  
+💼 **Returning SWE Intern @ Microsoft Azure** (2025 → 2026)  
+📈 **Researcher in Portfolio Diversification Optimization**  
+🧠 Strong background in systems programming, linear algebra, and applied AI
+
+---
+
+## 🧱 Technical Strengths
+
+**Languages:**  
+C++, C#, Python, Go, JavaScript/TypeScript, SQL, R, Java, CUDA, SML
+
+**Frameworks / Tools:**  
+.NET 8, React.js, Next.js, Django, FastAPI, PyTorch, Docker, Kubernetes, Azure, AKS, Kafka, gRPC, ONNX, TensorRT
+
+**Specialties:**  
+- High-performance systems  
+- Microservice architecture  
+- Cloud-native development  
+- Optimization & mathematical modeling  
+- ML systems and deployment  
+- Distributed and concurrent computing  
+
+---
+
+## 🏗️ Featured Projects
+
+### 🛒 **Microservices Grocery Ordering Platform (Palantir Fellowship)**
+A distributed grocery-optimization system using **Palantir OSDK** for semantic search & cost minimization.
+
+- Built with **.NET 8 (C#)**, **Python FastAPI**, and **React**
+- Microservices deployed on **Kubernetes**
+- Real-time semantic item matching and store selection
+
+🔗 *Private per fellowship rules — documentation available on request*
+
+---
+
+### 🧵 **Jobbie — University Job Posting Platform**  
+*(Ongoing)*  
+Full microservice backend for a job listing platform.
+
+- 5 services built with **C#, Go, and Node.js**
+- Event-driven architecture using **gRPC, HTTP, Kafka**
+- Fully containerized with **Docker** and deployed to **Azure AKS**
+- End-to-end CI/CD using GitHub Actions + Azure DevOps
+
+🔗 Repo: https://github.com/AdvancedUno/jobbie (if applicable)
+
+---
+
+### 📊 **Portfolio Diversification Optimization (Research)**
+Working with Dr. David White & Dr. Pedro Cadenas.
+
+- Implemented **ENB, ERC, MVO, and RQE** portfolio models
+- Analyzing risk–return trade-offs using linear algebra & convex optimization
+- Built simulation pipelines in **R** and **Python**
+
+---
+
+### ⚡ **High-Performance AI / Vision Systems**  
+Developed at INTELLIZ (2021–2023)
+
+- Built image enhancement pipelines with **OpenCV + PyTorch**
+- Integrated inference engines using **ONNX + TensorRT**
+- Optimized processes by **23–32%**
+
+---
+
+## ☁️ Microsoft Internship Highlights
+
+### 🔹 **Azure Application Gateway (2025)**
+- Created synthetic E2E reliability tests for ILB mode  
+- Reduced certificate retrieval errors by **15%** via managed identity + Key Vault redesign  
+- Improved internal reliability monitoring system
+
+### 🔹 **Azure Gateway Reliability (Returning Intern 2026)**
+- Strengthening distributed system reliability  
+- Additional details pending 2026 internship
+
+---
+
+## 🔧 Open Source Contributions
+
+- ONNX  
+- Ivy (UnifyAI)  
+- matplotlib  
+- OpenMLDB  
+- Additional small PRs & fixes
+
+---
+
+## 📫 Contact Me
+
+- **Email:** ehlee8276@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/eunho-lee-0711a8248  
+- **GitHub:** https://github.com/AdvancedUno  
+- **Phone:** 740-405-2600  
+
+---
+
+<p align="center">⭐ Thanks for stopping by! Always open to collaboration and research opportunities.</p>
